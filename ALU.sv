@@ -115,5 +115,5 @@ module ALU(
           end      
        end     
     end    
-endmodule
+endmodule //codigo não operacional ainda não terminado 
 
