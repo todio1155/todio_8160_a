@@ -55,5 +55,5 @@ module RTL(
             se <= pulse[15]; // digito numero 15 do pulse
         end                    
     end 
-endmodule   
+endmodule   //codigo não operacional ainda não terminado
     
