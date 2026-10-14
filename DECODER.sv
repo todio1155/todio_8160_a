@@ -33,6 +33,6 @@ module DECODER(
         out <= '0;
         out[addr] <= 1'b1;
     end   
-endmodule
+endmodule //codigo não operacional ainda não terminado
 
 
